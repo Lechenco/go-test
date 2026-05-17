@@ -1,0 +1,59 @@
+!Account
+NItau - Gabriel
+^
+!Type:CCard
+D2024/02/01
+T3651.02
+C
+PGabriel
+M(null)
+LSalário
+^
+!Type:CCard
+D2024/02/02
+T-240.00
+C
+PGabriel
+MPré Lançamento Magic
+LLazer:Sozinho - Gabriel
+^
+D2024/02/03
+T-55.00
+C
+PCasa
+MTábua de porção
+LLazer:Conjunto
+^
+D2024/02/07
+T-1035.55
+C
+P
+M(null)
+L[Nuconta - Gabriel]
+^
+!Account
+NNubank crédito - Nicole
+TCCard
+^
+!Type:Bank
+D2024/02/03
+T-82.00
+C
+PCasa
+MBolo de aniversário
+LLazer:Conjunto
+^
+D2024/02/03
+T-16.76
+C
+PCasa
+M(null)
+LLazer:Conjunto
+^
+D2024/02/05
+T-110.00
+C
+PGabriel
+MManutenção
+LSaúde:Dentista
+^
